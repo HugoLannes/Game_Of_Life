@@ -1,0 +1,10 @@
+C:\Users\Hugo\source\repos\GOL\GOL\bin\Debug\GOL.exe.config
+C:\Users\Hugo\source\repos\GOL\GOL\bin\Debug\GOL.exe
+C:\Users\Hugo\source\repos\GOL\GOL\bin\Debug\GOL.pdb
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.Form1.resources
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.Properties.Resources.resources
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.csproj.GenerateResource.cache
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.exe
+C:\Users\Hugo\source\repos\GOL\GOL\obj\Debug\GOL.pdb
